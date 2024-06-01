@@ -19,7 +19,7 @@ export default function NavBar({ isMovieDetails }) {
         }`}
       >
         <p className="font-bold text-xl md:text-3xl my-5 text-blue-600 font-mono">
-          <a onClick={() => navigate("/")}>CS Modul 9</a>
+          <a onClick={() => navigate("/")}>Movie API</a>
         </p>
         <div
           className={
